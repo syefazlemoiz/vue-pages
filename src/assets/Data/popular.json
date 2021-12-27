@@ -1,0 +1,79 @@
+{
+    "language" :[
+        {
+            "title" : "Python",
+            "bg" : "https://static-assets.codecademy.com/assets/components/cards/explore-category-card/language/python.svg",
+            "align" : "initial"
+        },
+        {
+            "title" : "JavaScript",
+            "bg" : "https://static-assets.codecademy.com/assets/components/cards/explore-category-card/language/javascript.svg",
+            "align" : "initial"
+        },
+        {
+            "title" : "Data Science",
+            "bg" : "https://static-assets.codecademy.com/assets/components/cards/explore-category-card/subject/data-science.svg",
+            "align" : "initial"
+        },
+        {
+            "title" : "Web Development",
+            "bg" : "https://static-assets.codecademy.com/assets/components/cards/explore-category-card/subject/web-development.svg",
+            "align" : "right"
+        }
+    ],
+    "course" :[
+        {
+            "title" : "Learn HTML",
+            "lessons" : "6",
+            "tag" : "Language Fluency",
+            "pro" : false
+        },
+        {
+            "title" : "Learn Python 3",
+            "lessons" : "14",
+            "tag" : "Language Fluency",
+            "pro" : true
+        },
+        {
+            "title" : "Learn Java",
+            "lessons" : "16",
+            "tag" : "Language Fluency",
+            "pro" : false
+        },
+        {
+            "title" : "Learn JavaScript",
+            "lessons" : "11",
+            "tag" : "Language Fluency",
+            "pro" : false
+        },
+        {
+            "title" : "Welcome to Codecademy",
+            "lessons" : "1",
+            "tag" : "Welcome Series",
+            "pro" : false
+        }
+    ],
+    "career" :[
+        {
+            "title" : "Front-End Developer",
+            "lessons" : "121",
+            "img" : "https://static-assets.codecademy.com/components/curriculum/path/front-end-engineer-career-path/curriculum-card.svg",
+            "tag" : "Job Essentials",
+            "pro" : true
+        },
+        {
+            "title" : "Full-Stack Developer",
+            "lessons" : "145",
+            "img" : "https://static-assets.codecademy.com/components/curriculum/path/full-stack-engineer-career-path/curriculum-card.svg",
+            "tag" : "Job Essentials",
+            "pro" : true
+        },
+        {
+            "title" : "Data Scientist",
+            "lessons" : "185",
+            "img" : "https://static-assets.codecademy.com/components/curriculum/path/data-science/curriculum-card.svg",
+            "tag" : "Job Essentials",
+            "pro" : true
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "languages" : [
+        {"title":"HTML & CSS"},
+        {"title":"Python"},
+        {"title":"JavaScript"},
+        {"title":"Java"},
+        {"title":"SQL"},
+        {"title":"Bash/Shell"},
+        {"title":"Ruby"},
+        {"title":"C++"},
+        {"title":"R"},
+        {"title":"C#"},
+        {"title":"PHP"},
+        {"title":"Go"},
+        {"title":"Swift"},
+        {"title":"Kotlin"}
+    ],
+    "subjects" :[
+        {"title":"Web Development"},
+        {"title":"Data Science"},
+        {"title":"Computer Science"},
+        {"title":"Developer Tools"},
+        {"title":"Machine Learning"},
+        {"title":"Code Foundations"},
+        {"title":"Web Design"},
+        {"title":"Game Development"},
+        {"title":"Mobile Development"},
+        {"title":"Data Visualization"},
+        {"title":"Interview Prep"},
+        {"title":"Cybersecurity"},
+        {"title":"For Business"},
+        {"title":"Beta Catalog"},
+        {"title":"Math"}
+    ]
+}
